@@ -33,6 +33,7 @@ protobuf==3.12.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pyparsing==2.4.7
+pytesseract==0.3.4
 python-dateutil==2.8.1
 PyYAML==5.3.1
 requests==2.24.0
