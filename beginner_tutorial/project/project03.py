@@ -4,7 +4,7 @@ import cv2
 ################################################################################################
 frameWidth = 640
 frameHeight = 480
-nPlateCascade = cv2.CascadeClassifier("../Resources/haarcascades/haarcascade_russian_plate_number.xml")
+nPlateCascade = cv2.CascadeClassifier("../../Resources/haarcascades/haarcascade_russian_plate_number.xml")
 minArea = 500
 color = (255, 0, 255)
 ################################################################################################
